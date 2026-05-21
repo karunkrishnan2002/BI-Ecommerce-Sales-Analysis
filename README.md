@@ -135,7 +135,7 @@ BI-Ecommerce-Sales-Analysis/
 ---
 
 ## Dashboard Preview
-(./Images/sales_data_analysis.png)
+![Dashboard Preview](./Images/sales_data_analysis.png)
 
 ---
 
