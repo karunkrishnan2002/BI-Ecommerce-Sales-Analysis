@@ -141,4 +141,4 @@ BI-Ecommerce-Sales-Analysis/
 
 ## Author
 
-Karun K
+Karun Krishnan
