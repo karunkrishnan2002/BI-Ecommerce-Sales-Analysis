@@ -127,7 +127,7 @@ BI-Ecommerce-Sales-Analysis/
 ├── data/
 ├── notebooks/
 ├── sql/
-├── dashboard/(./Images/sales_data_analysis.png)
+├── dashboard/
 ├── presentation/
 └── README.md
 ```
@@ -135,8 +135,7 @@ BI-Ecommerce-Sales-Analysis/
 ---
 
 ## Dashboard Preview
-
-(Add Power BI dashboard screenshot here)
+(./Images/sales_data_analysis.png)
 
 ---
 
