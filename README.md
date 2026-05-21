@@ -60,6 +60,9 @@ The following preprocessing steps were performed:
 - Merged datasets into a single analytical dataset
 - Exported a SQL-ready cleaned dataset
 
+  ### Cleaned Dataset
+
+https://docs.google.com/spreadsheets/d/1ru6LWwZdYKYtPm13op28FDypQ_xJvHLHArwamGN2oLE/edit?usp=sharing
 ---
 
 ## SQL Analysis Performed
